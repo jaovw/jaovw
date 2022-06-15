@@ -1,6 +1,6 @@
-### Hi there 👋
+###  👋
 
-- 🌱 I’m currently learning ...
+- Working on it
 
 ## TECNOLOGIAS 
 
