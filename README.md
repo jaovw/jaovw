@@ -15,7 +15,7 @@
 
 ## STATS
 
-<div style="display: flex; justify-content: center;">
+<div style="text-align: center;">
 
     <a href="https://github.com/jaovw">
         <img height="190em"
