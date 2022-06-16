@@ -1,9 +1,9 @@
-##  SOBRE
+##  :coffee: SOBRE
 
 Desenvolvedor Node.js buscando estuando no ramo de back-end. Realizando novas integrações e desenvolvimento de sistemas web.
 Determinado em melhorar as habilidades de front-end para obter a competência de desenvolvedor full-stack 🚀.
 
-#### _TECNOLOGIAS_ 
+#### :electron: _TECNOLOGIAS_ 
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42" height="42"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" height="42"/>
