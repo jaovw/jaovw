@@ -15,7 +15,7 @@
 
 ## STATS
 
-<div style="display: flex; justify-content: center;">
+<div>
 
   <img height="200em"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaovw&layout=compact&langs_count=7&theme=github_dark" />
