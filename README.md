@@ -21,10 +21,4 @@
             <img height="190em"
                 src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaovw&layout=compact&langs_count=7&theme=github_dark" />
     </div>
-
-    <div style="text-align: justify; float: right;">
-        <a href="https://github.com/jaovw">
-            <img height="190em"
-                src="https://github-readme-stats.vercel.app/api?username=jaovw&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
-    </div>
 </div>
