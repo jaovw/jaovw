@@ -17,9 +17,9 @@
 
 <div style="display: flex; justify-content: center;">
 
-  <img height="210em"
+  <img height="200em"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaovw&layout=compact&langs_count=7&theme=github_dark" />
 
-  <img height="210em"
+  <img height="200em"
        src="https://github-readme-stats.vercel.app/api?username=jaovw&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
 </div>
