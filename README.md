@@ -15,7 +15,7 @@ Determinado em melhorar as habilidades de front-end para obter a competência de
 
 
 
-## :chart_with_upwards_trend: Stats
+## :chart_with_upwards_trend: ESTATÍSTICAS
 
 <div align='center'>
 <img height="168em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaovw&layout=compact&langs_count=7&theme=github_dark" /> 
