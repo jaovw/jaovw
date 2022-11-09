@@ -10,7 +10,7 @@ Minha vivência é composta de integrações, criação e consumo de APIs do tip
 
 Aqui em meu perfil há algumas APIs, tech challenges e repositórios direcionados a estudos pessoais.
 
-### 📚: _TECNOLOGIAS_ 
+### 📚 _TECNOLOGIAS_ 
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42" height="42"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" height="42"/>
@@ -19,6 +19,8 @@ Aqui em meu perfil há algumas APIs, tech challenges e repositórios direcionado
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" height="42"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" height="42"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="42" height="42"/>
+
 </div>
 
 
