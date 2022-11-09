@@ -2,13 +2,13 @@
 
 Desenvolvedor Node.js com experiência em desenvolvimento de sistemas e funcionalidades voltadas para o back-end.
 
-Busco obter conhecimento das demais regras de negócios para trazer soluções adequadas e dinamicas.
+Busco obter conhecimento das demais regras de negócios para trazer soluções adequadas e dinâmicas.
 
 Minha vivência é composta de integrações, criação e consumo de APIs do tipo REST. Tenho me aventurado aos poucos pelo front-end utilizando React.
 
 ### :package: REPOSITÓRIOS
 
-Aqui em meu perfil há repositórios dos quais são algumas APIs, tech challenges e direcionado a estudos pessoais.
+Aqui em meu perfil há algumas APIs, tech challenges e repositórios direcionados a estudos pessoais.
 
 ### 📚: _TECNOLOGIAS_ 
 <div>
