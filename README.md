@@ -98,7 +98,7 @@ Aqui em meu perfil há algumas APIs, tech challenges e repositórios direcionado
 
 ## Contact:
 <div> 
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-woncce-80207519a/" target="_blank">
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-w-80207519a/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
 </div>&nbsp;&nbsp;
