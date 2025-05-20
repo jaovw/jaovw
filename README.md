@@ -76,6 +76,7 @@ Aqui em meu perfil há algumas APIs, tech challenges e repositórios direcionado
 
 #### Studying in this moment:
 
+![Golang](https://img.shields.io/badge/golang-blue?style=for-the-badge&logo=go&logoColor=white&color=%2300ADD8)&nbsp;
 ![Redis](https://img.shields.io/badge/redis-orange?style=for-the-badge&logo=redis&logoColor=white&color=%23FF4438)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/kubernetes-4285F4?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
 
